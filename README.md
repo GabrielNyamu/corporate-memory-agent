@@ -1,4 +1,4 @@
-# corporate-memory-agent
+# Corporate Memory Agent
 Corporate Memory is an AI-powered meeting assistant built to make managing meeting minutes incredibly easy. It allows you to chat with past meeting documents to find quick answers, and it can act as your AI Secretary to automatically write new, formal minutes from your rough notes or even photos of your sketches.
 
 ##  Key Features
